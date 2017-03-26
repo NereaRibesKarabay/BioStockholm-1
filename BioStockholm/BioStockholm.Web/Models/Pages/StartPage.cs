@@ -8,7 +8,7 @@ using BioStockholm.Web.Models.Blocks;
 namespace BioStockholm.Web.Models.Pages
 {
     /// <summary>
-    /// Used for the site's start page and also acts as a container for site settings
+    /// Used for the site's start page and also acts as a container for site settings bhjgkjghj
     /// </summary>
     [ContentType(
         GUID = "19671657-B684-4D95-A61F-8DD4FE60D559",
